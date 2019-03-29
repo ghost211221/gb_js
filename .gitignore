@@ -1,3 +1,4 @@
 # Specify filepatterns you want git to ignore.
 js_home.sublime-project
 js_home.sublime-workspace
+JS.rar
